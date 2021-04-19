@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋👋👋 Hi, my name is Craig and I'm learning developing :D
 
-<!--
-**YungCr4i6/YungCr4i6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages:
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YungCr4i6&layout=compact"/>
 
-Here are some ideas to get you started:
+Info About Me:
+🖥️ - My name is Craig/Matěj, and I'm learning developing in C# and sometimes Python
+⚡ - I'm 14 years old and I like to play games, my favorites include Rainbow Six Siege
+🌱 - I do not support BLM, LGBT and similar organizations (Don't be mad at me, lol)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+Twitter - HerrCraig88
+Instagram - yung_craig_wtf
+
+### 🎧 - I am currently listening to: 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/q0m7ut5fpji87lnl069m585t0)
