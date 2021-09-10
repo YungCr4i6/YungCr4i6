@@ -4,9 +4,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YungCr4i6&layout=compact"/>
 
 Info About Me:
-- 🖥️ My name is Craig/Matěj, and I'm learning developing in C# and sometimes Python
-- ⚡ I'm 14 years old and I like to play games, my favorites include Rainbow Six Siege
-- 🌱 I do not support BLM, LGBT and similar organizations (Don't be mad at me, lol)
+- allah has cured my schizophrenia
 
 ## Contact
 - Twitter - HerrCraig88
