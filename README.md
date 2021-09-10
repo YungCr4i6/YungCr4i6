@@ -9,6 +9,3 @@ Info About Me:
 ## Contact
 - Twitter - HerrCraig88
 - Instagram - yung_craig_wtf
-
-### 🎧 - I am currently listening to:
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/q0m7ut5fpji87lnl069m585t0)
