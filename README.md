@@ -7,5 +7,5 @@ Info About Me:
 - allah has cured my schizophrenia
 
 ## Contact
-- Twitter - HerrCraig88
-- Instagram - yung_craig_wtf
+- Discord - N4um3#6265
+- Instagram - yung_craig_
